@@ -2,4 +2,4 @@
 
 Para automotoras y servicios de mantenimiento de autos e incluso para rentadoras de automoviles
 
--[Landing Page de Automotora y Rentadoras de Automoviles](https://Rigzert.github.io/autonegocios/automotora-website)
+-[Landing Page de Automotora y Rentadoras de Automoviles](https://Rigzert.github.io/autocarnegocios/automotora-website)
